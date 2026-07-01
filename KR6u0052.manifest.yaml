@@ -1,0 +1,37 @@
+canonical_identifier: bkk:krp/KR6u0052/v1
+canonical_location: https://kanripo.org/bkk/KR6u0052/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 勸善經
+  identifiers:
+    alt_id:
+    - T85n2916
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T85/T85n2916.xml
+    old_id: T85n2916
+  edition:
+    short: bkk
+assets:
+  parts:
+  - {seq: 0, filename: KR6u0052_000.yaml, hash: 'sha256:a3fe7e62d5856b35e4d50a60584c17e963e4e72b7a6253c775214413ba07f0f1'}
+  - {seq: 1, filename: KR6u0052_001.yaml, hash: 'sha256:796dba5cbd7f538582b0d111106f89231411d49a3554cd98323161a53ec2470b'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR6u0052_001.markers.yaml, hash: 'sha256:8519417863f96325c9525fd9ba6901bc1dfddaf70a7b6fc63c38cb9be40ef0aa'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6u0052_T_001-juan-start
+    span:
+    - body
+    - 0
+    - 247
+  label: 勸善經一卷
+  type: juan
+  level: 1
+hash: sha256:c01fcc57aadaf1c21ea45f9831967824866e862057c3122b03d8d41d46a1c29c
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e

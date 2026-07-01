@@ -1,0 +1,20 @@
+canonical_identifier: bkk:krp/KR6u0052/t/v1/juan/1
+seq: 1
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 敕左丞相賈恍頒下諸州善之衆生每日念阿彌陀佛一千口斷惡行善今年大熱無人收苅有數衆病死第一虐病第二天行病死第三赤白痢病死第四赤眼病死第五人産病死第六水痢病死第七風病死今勸衆生寫此經免一門難寫本六親見此經不寫者滅門門上傍之得過此難無福者不可得見此經其經從南來正月八日雷電霹靂空中有一童子年四歲又見一老人在路中見一蛇身萬尺人頭鳥遂呼老人曰為太山崩要女人萬萬衆須得片萬萬願著病難差寫此經者得免此難不信者但看四月一日三家使一牛五男同一婦僧尼巡門難寫此經流傳聖人真言若袚𭂩風𪠴却不免難相勸阿彌陀佛不久見太平時
+  hash: sha256:c5160426300537ce9ce126a803843f00be7a42b11e14fe727c6ffdaf305c8563
+  markers:
+  - {type: 'cbeta:juan-start', offset: 0, content: 勸善經一卷, id: KR6u0052_T_001-juan-start, juan_n: '001', jhead: 勸善經一卷}
+  - {type: 'cbeta:juan-end', offset: 247, content: 勸善經一卷, id: KR6u0052_T_001-juan-end, juan_n: '001', jhead: 勸善經一卷}
+metadata:
+  title: 勸善經
+  edition:
+    short: t
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T85/T85n2916.xml
+    old_id: T85n2916
+hash: sha256:796dba5cbd7f538582b0d111106f89231411d49a3554cd98323161a53ec2470b

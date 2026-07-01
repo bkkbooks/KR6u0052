@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6u0052/t/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 勸善經
+  edition:
+    short: t
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T85/T85n2916.xml
+    old_id: T85n2916
+hash: sha256:a3fe7e62d5856b35e4d50a60584c17e963e4e72b7a6253c775214413ba07f0f1
