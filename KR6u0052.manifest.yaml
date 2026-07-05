@@ -17,9 +17,10 @@ metadata:
 assets:
   parts:
   - {seq: 0, filename: KR6u0052_000.yaml, hash: 'sha256:a3fe7e62d5856b35e4d50a60584c17e963e4e72b7a6253c775214413ba07f0f1'}
-  - {seq: 1, filename: KR6u0052_001.yaml, hash: 'sha256:796dba5cbd7f538582b0d111106f89231411d49a3554cd98323161a53ec2470b'}
+  - {seq: 1, filename: KR6u0052_001.yaml, hash: 'sha256:75840bdc836a81b84db6a161a9d60c99cb21a22a04444dfaa90bcc5c214d13ac'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR6u0052_001.markers.yaml, hash: 'sha256:8519417863f96325c9525fd9ba6901bc1dfddaf70a7b6fc63c38cb9be40ef0aa'}
+  - {seq: 0, role: markers, filename: assets/KR6u0052_000.markers.yaml, hash: 'sha256:b1781ab833b3ff21703d5e499a94c816e085cc57f5d4ca8e45189a322f0e8b49'}
+  - {seq: 1, role: markers, filename: assets/KR6u0052_001.markers.yaml, hash: 'sha256:516cc9e8bf81ba65f88dc4caeebe0db04d9df2d62923396b2eac8b9f5fbfd605'}
 table_of_contents:
 - ref:
     seq: 1
@@ -31,7 +32,4 @@ table_of_contents:
   label: 勸善經一卷
   type: juan
   level: 1
-hash: sha256:c01fcc57aadaf1c21ea45f9831967824866e862057c3122b03d8d41d46a1c29c
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:2781b14887d809d98dfb3b63b4133409ce74ee36869967fd5c39ca431f364da0
